@@ -14,6 +14,7 @@
 		8078B02F1A80C5460096F852 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8078B02E1A80C5460096F852 /* Images.xcassets */; };
 		8078B0321A80C5460096F852 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8078B0301A80C5460096F852 /* LaunchScreen.xib */; };
 		8078B03E1A80C5460096F852 /* SectionsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8078B03D1A80C5460096F852 /* SectionsTests.m */; };
+		8078B0481A80C6100096F852 /* sortednames.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8078B0471A80C6100096F852 /* sortednames.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		8078B0371A80C5460096F852 /* SectionsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SectionsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8078B03C1A80C5460096F852 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8078B03D1A80C5460096F852 /* SectionsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SectionsTests.m; sourceTree = "<group>"; };
+		8078B0471A80C6100096F852 /* sortednames.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = sortednames.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				8078B0291A80C5450096F852 /* ViewController.m */,
 				8078B02B1A80C5460096F852 /* Main.storyboard */,
 				8078B02E1A80C5460096F852 /* Images.xcassets */,
+				8078B0471A80C6100096F852 /* sortednames.plist */,
 				8078B0301A80C5460096F852 /* LaunchScreen.xib */,
 				8078B0211A80C5450096F852 /* Supporting Files */,
 			);
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8078B0481A80C6100096F852 /* sortednames.plist in Resources */,
 				8078B02D1A80C5460096F852 /* Main.storyboard in Resources */,
 				8078B0321A80C5460096F852 /* LaunchScreen.xib in Resources */,
 				8078B02F1A80C5460096F852 /* Images.xcassets in Resources */,
